@@ -207,6 +207,9 @@ nav li:hover {
     left: 5px;
     text-align: right;
     padding-right: 10px;
+    border-top: 3px solid #282828;
+    border-bottom: 3px solid #282828;
+    line-height: 20px;
 }
 
 .portfolio-item-desc a,
@@ -215,7 +218,7 @@ nav li:hover {
     color: white;
     text-decoration: none;
     font-family: 'urbane-rounded', sans-serif;
-    font-weight: 200;
+    font-weight: 100;
     font-size: 14px;
 }
 
