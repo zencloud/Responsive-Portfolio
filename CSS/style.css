@@ -160,10 +160,15 @@ nav li:hover {
     background-position: bottom right;
     background-repeat: no-repeat;
     margin: 0 auto;
+    margin-bottom: 20px;
     padding: 20px;
     font-size: 18px;
     font-weight: 300;
     line-height: 26px;
+}
+
+.contact-body p {
+    margin-bottom: 10px;
 }
 
 .portfolio-body {
@@ -182,6 +187,10 @@ nav li:hover {
 
 .content-text-background { 
     padding-right: 5em;
+}
+
+.content-text-background p {
+    margin-bottom: 15px;
 }
 
 .social {
